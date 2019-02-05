@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hangman>
+    <words>
+        <word nbFound="1" level="1">
+            piscine
+        </word>
+
+    </words>
+    <levels>
+        <level level="1" nbLive="10"></level>
+        <level level="2" nbLive="5"></level>
+        <level level="3" nbLive="3"></level>
+    </levels>
+</hangman>
